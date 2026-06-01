@@ -1,0 +1,6 @@
+{
+  "name": "智能文书审计系统",
+  "description": "包含登录、AI审查主页及人员管理的智能系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
